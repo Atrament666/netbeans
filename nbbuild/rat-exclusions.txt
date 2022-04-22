@@ -224,4 +224,4 @@ ide/properties.syntax/src/org/netbeans/modules/properties/syntax/PropertiesExamp
 
 
 ###### GitHub Issue tooling
-.github/ISSUE_TEMPLATE/**
+.github/**
